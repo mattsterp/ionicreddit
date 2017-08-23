@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
 
+import { RedditsPage } from '../reddits/reddits';
 import { AboutPage } from '../about/about';
 import { SettingsPage } from '../settings/settings';
-import { RedditsPage } from '../reddits/reddits';
+
 
 @Component({
   templateUrl: 'tabs.html'
